@@ -8,7 +8,7 @@ It's David Martos Ruiz, a technology enthusiast.
 - 🛠 I deal with Linux Bash, Java, HTML, CSS and JavaScript.
 - 💻 I'm a CCNA2 Certificate Holder.
 
-Are you left wanting more? Visit my personal site davidmartos.dev
+Are you left wanting more? Visit my personal site <a href="https://davidmartos.dev">davidmartos.dev</a>
 
 <!--
 **davidmartosruiz/davidmartosruiz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
