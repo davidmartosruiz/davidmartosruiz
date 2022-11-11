@@ -4,7 +4,7 @@ It's David Martos Ruiz, a technology enthusiast.
 
 - 📚 I'm currently studying Web Applications Development.
 - 👨🏻‍💻 I'm a Microcomputer Systems and Networks Technician.
-- 🌐 I can speak Spanish (mother tongue), English (C1) and currenly starting with German.
+- 🌐 I can speak Spanish (mother tongue), English (C1) and currently starting with German.
 - 🛠 I work with Bash, Java, HTML, CSS and JavaScript.
 - 💻 I'm a CCNA2 Certificate Holder.
 
