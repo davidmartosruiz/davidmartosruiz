@@ -5,7 +5,7 @@ It's David Martos Ruiz, a technology enthusiast.
 - 📚 I'm currently studying Web Applications Development.
 - 👨🏻‍💻 I'm a Microcomputer Systems and Networks Technician.
 - 🌐 I can speak Spanish (mother tongue), English (C1) and currently starting with German.
-- 🛠 I work with Java, Spring Framework, Maven, JUnit, Bash, SQL, Docker, AWS, Git, HTML, XML, CSS and JavaScript.
+- 🛠 I work with Java, PHP, Spring Framework, Maven, JUnit, JavaScript, HTML, CSS, Angular, Figma, Git, SQL, Azure, Docker, AWS, Bash and XML.
 - 💻 I'm a CCNA3 Certificate Holder.
 
 Are you left wanting more? Visit my personal site <a href="https://davidmartos.dev">davidmartos.dev</a>
